@@ -1,0 +1,435 @@
+21 Dec 2017 08:10:35,714  INFO [AWT-EventQueue-0] - GenerateGame 59 - Generating Game ......
+ 21 Dec 2017 08:10:36,116  INFO [AWT-EventQueue-0] - Maze 72 - Generating Maze...
+ 21 Dec 2017 08:10:36,118  INFO [AWT-EventQueue-0] - Maze 102 - Setting maze path from start to end point
+ 21 Dec 2017 08:10:36,120  INFO [AWT-EventQueue-0] - Maze 97 - Maze Generating Successfully
+ 21 Dec 2017 08:10:36,203  INFO [AWT-EventQueue-0] - GenerateComponent 54 - Generating Maze Components....
+ 21 Dec 2017 08:10:36,205  INFO [AWT-EventQueue-0] - GenerateComponent 58 - Generating Gifts....
+ 21 Dec 2017 08:10:36,208  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,209  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,211  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,212  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,213  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,214  INFO [AWT-EventQueue-0] - GenerateComponent 60 - Gifts Generated Successfully
+ 21 Dec 2017 08:10:36,215  INFO [AWT-EventQueue-0] - GenerateComponent 61 - Generating Trees....
+ 21 Dec 2017 08:10:36,230  WARN [AWT-EventQueue-0] - GenerateComponent 150 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,232  INFO [AWT-EventQueue-0] - GenerateComponent 63 - Trees Generated Successfully
+ 21 Dec 2017 08:10:36,233  INFO [AWT-EventQueue-0] - GenerateComponent 64 - Generating Bombs....
+ 21 Dec 2017 08:10:36,233  INFO [AWT-EventQueue-0] - GenerateComponent 66 - Bombs Generated Successfully
+ 21 Dec 2017 08:10:36,234  INFO [AWT-EventQueue-0] - GenerateComponent 68 - Generating Monsters....
+ 21 Dec 2017 08:10:36,235  WARN [AWT-EventQueue-0] - GenerateComponent 113 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,236  INFO [AWT-EventQueue-0] - GenerateComponent 71 - Monsters Generated Successfully
+ 21 Dec 2017 08:10:36,237  INFO [AWT-EventQueue-0] - GenerateComponent 72 - Generating Coins....
+ 21 Dec 2017 08:10:36,238  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,239  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,241  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,242  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,243  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,244  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,244  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,245  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,246  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,247  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,248  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,248  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,249  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,250  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:10:36,250  INFO [AWT-EventQueue-0] - GenerateComponent 76 - Coins Generated Successfully
+ 21 Dec 2017 08:10:37,321  INFO [AWT-EventQueue-0] - GeneratePlayer 32 - Generating Player.....
+ 21 Dec 2017 08:10:37,322  INFO [AWT-EventQueue-0] - GeneratePlayer 34 - Setting Player position
+ 21 Dec 2017 08:10:37,322  INFO [AWT-EventQueue-0] - GeneratePlayer 41 - Generating player bullets
+ 21 Dec 2017 08:10:37,441  INFO [AWT-EventQueue-0] - GeneratePlayer 37 - Player Generating Successfully!
+ 21 Dec 2017 08:10:37,442  INFO [AWT-EventQueue-0] - GenerateGame 83 - Preparing Multithread Monster Movement
+ 21 Dec 2017 08:10:41,619  INFO [AWT-EventQueue-0] - MazeRunner$2 78 - initial gui created
+ 21 Dec 2017 08:10:41,689  INFO [AWT-EventQueue-0] - MazeRunner$2 82 - maze map created
+ 21 Dec 2017 08:10:42,594  INFO [AWT-EventQueue-0] - MazeRunner$2 86 - game started
+ 21 Dec 2017 08:10:46,252  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:46,518  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:46,635  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:46,797  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:46,985  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:47,159  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:47,372  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:47,598  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:47,851  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:48,207  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:48,358  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:48,519  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:48,807  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:49,009  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:49,182  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:49,325  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:49,518  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:49,671  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:49,807  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:50,138  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:50,340  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:50,484  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:50,639  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:50,838  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:51,022  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:51,167  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:51,297  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:51,507  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:51,828  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:52,007  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:52,171  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:10:52,551  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:52,760  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:53,040  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:53,207  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:53,373  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:53,724  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:54,029  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:10:54,232  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:54,421  INFO [AWT-EventQueue-0] - ImagePanel$1 79 - Key space pressed
+ 21 Dec 2017 08:10:54,551  INFO [AWT-EventQueue-0] - ImagePanel$1 81 - bullet fired
+ 21 Dec 2017 08:10:54,553  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 237 - Bullet movement thread started
+ 21 Dec 2017 08:10:54,555  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:54,780  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:54,938  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:55,129  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:55,178  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:55,244  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:55,382  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:55,393  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:55,532  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:55,601  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:55,691  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:55,783  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:55,813  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:10:55,910  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:55,950  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 261 - Bullet hit an object
+ 21 Dec 2017 08:10:55,950  INFO [Bullet Moving Runnable] - ImagePanel 211 - Bullet hit a non destroyable drawable
+ 21 Dec 2017 08:10:55,951  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 265 - Bullet movement thread Ended
+ 21 Dec 2017 08:10:56,099  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:56,283  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:56,467  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:56,908  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:57,174  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:57,411  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:57,500  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:57,604  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:57,825  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,061  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,582  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,616  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,649  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,682  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,716  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,749  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:10:58,880  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:59,068  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:10:59,292  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:38:23,180  INFO [AWT-EventQueue-0] - GenerateGame 59 - Generating Game ......
+ 21 Dec 2017 08:38:23,516  INFO [AWT-EventQueue-0] - Maze 72 - Generating Maze...
+ 21 Dec 2017 08:38:23,518  INFO [AWT-EventQueue-0] - Maze 102 - Setting maze path from start to end point
+ 21 Dec 2017 08:38:23,519  INFO [AWT-EventQueue-0] - Maze 97 - Maze Generating Successfully
+ 21 Dec 2017 08:38:23,702  INFO [AWT-EventQueue-0] - GenerateComponent 54 - Generating Maze Components....
+ 21 Dec 2017 08:38:23,703  INFO [AWT-EventQueue-0] - GenerateComponent 58 - Generating Gifts....
+ 21 Dec 2017 08:38:23,740  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,741  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,742  INFO [AWT-EventQueue-0] - GenerateComponent 60 - Gifts Generated Successfully
+ 21 Dec 2017 08:38:23,743  INFO [AWT-EventQueue-0] - GenerateComponent 61 - Generating Trees....
+ 21 Dec 2017 08:38:23,748  WARN [AWT-EventQueue-0] - GenerateComponent 150 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,754  INFO [AWT-EventQueue-0] - GenerateComponent 63 - Trees Generated Successfully
+ 21 Dec 2017 08:38:23,755  INFO [AWT-EventQueue-0] - GenerateComponent 64 - Generating Bombs....
+ 21 Dec 2017 08:38:23,756  INFO [AWT-EventQueue-0] - GenerateComponent 66 - Bombs Generated Successfully
+ 21 Dec 2017 08:38:23,757  WARN [AWT-EventQueue-0] - GenerateComponent 100 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,758  INFO [AWT-EventQueue-0] - GenerateComponent 68 - Generating Monsters....
+ 21 Dec 2017 08:38:23,759  INFO [AWT-EventQueue-0] - GenerateComponent 71 - Monsters Generated Successfully
+ 21 Dec 2017 08:38:23,759  INFO [AWT-EventQueue-0] - GenerateComponent 72 - Generating Coins....
+ 21 Dec 2017 08:38:23,760  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,761  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,762  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,763  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,764  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,765  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,766  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,767  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,767  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,776  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:38:23,777  INFO [AWT-EventQueue-0] - GenerateComponent 76 - Coins Generated Successfully
+ 21 Dec 2017 08:38:24,409  INFO [AWT-EventQueue-0] - GeneratePlayer 32 - Generating Player.....
+ 21 Dec 2017 08:38:24,410  INFO [AWT-EventQueue-0] - GeneratePlayer 34 - Setting Player position
+ 21 Dec 2017 08:38:24,411  INFO [AWT-EventQueue-0] - GeneratePlayer 41 - Generating player bullets
+ 21 Dec 2017 08:38:24,440  INFO [AWT-EventQueue-0] - GeneratePlayer 37 - Player Generating Successfully!
+ 21 Dec 2017 08:38:24,441  INFO [AWT-EventQueue-0] - GenerateGame 83 - Preparing Multithread Monster Movement
+ 21 Dec 2017 08:38:26,077  INFO [AWT-EventQueue-0] - MazeRunner$2 78 - initial gui created
+ 21 Dec 2017 08:38:26,143  INFO [AWT-EventQueue-0] - MazeRunner$2 82 - maze map created
+ 21 Dec 2017 08:38:26,521  INFO [AWT-EventQueue-0] - MazeRunner$2 86 - game started
+ 21 Dec 2017 08:46:16,168  INFO [AWT-EventQueue-0] - GenerateGame 59 - Generating Game ......
+ 21 Dec 2017 08:46:16,173  INFO [AWT-EventQueue-0] - Maze 72 - Generating Maze...
+ 21 Dec 2017 08:46:16,174  INFO [AWT-EventQueue-0] - Maze 102 - Setting maze path from start to end point
+ 21 Dec 2017 08:46:16,174  INFO [AWT-EventQueue-0] - Maze 97 - Maze Generating Successfully
+ 21 Dec 2017 08:46:16,176  INFO [AWT-EventQueue-0] - GenerateComponent 54 - Generating Maze Components....
+ 21 Dec 2017 08:46:16,177  INFO [AWT-EventQueue-0] - GenerateComponent 58 - Generating Gifts....
+ 21 Dec 2017 08:46:16,177  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,178  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,178  INFO [AWT-EventQueue-0] - GenerateComponent 60 - Gifts Generated Successfully
+ 21 Dec 2017 08:46:16,179  INFO [AWT-EventQueue-0] - GenerateComponent 61 - Generating Trees....
+ 21 Dec 2017 08:46:16,180  WARN [AWT-EventQueue-0] - GenerateComponent 150 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,181  INFO [AWT-EventQueue-0] - GenerateComponent 63 - Trees Generated Successfully
+ 21 Dec 2017 08:46:16,181  INFO [AWT-EventQueue-0] - GenerateComponent 64 - Generating Bombs....
+ 21 Dec 2017 08:46:16,182  INFO [AWT-EventQueue-0] - GenerateComponent 66 - Bombs Generated Successfully
+ 21 Dec 2017 08:46:16,182  INFO [AWT-EventQueue-0] - GenerateComponent 68 - Generating Monsters....
+ 21 Dec 2017 08:46:16,183  INFO [AWT-EventQueue-0] - GenerateComponent 71 - Monsters Generated Successfully
+ 21 Dec 2017 08:46:16,183  INFO [AWT-EventQueue-0] - GenerateComponent 72 - Generating Coins....
+ 21 Dec 2017 08:46:16,183  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,184  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,184  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,185  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,192  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,192  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,193  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,193  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,194  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,194  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,194  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,196  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,196  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,197  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,197  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,198  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,198  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,199  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,199  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,199  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,200  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:46:16,200  INFO [AWT-EventQueue-0] - GenerateComponent 76 - Coins Generated Successfully
+ 21 Dec 2017 08:46:16,213  INFO [AWT-EventQueue-0] - GeneratePlayer 32 - Generating Player.....
+ 21 Dec 2017 08:46:16,214  INFO [AWT-EventQueue-0] - GeneratePlayer 34 - Setting Player position
+ 21 Dec 2017 08:46:16,214  INFO [AWT-EventQueue-0] - GeneratePlayer 41 - Generating player bullets
+ 21 Dec 2017 08:46:16,215  INFO [AWT-EventQueue-0] - GeneratePlayer 37 - Player Generating Successfully!
+ 21 Dec 2017 08:46:17,613  INFO [AWT-EventQueue-0] - MazeRunner$2 88 - initial gui created
+ 21 Dec 2017 08:46:17,678  INFO [AWT-EventQueue-0] - MazeRunner$2 92 - maze map created
+ 21 Dec 2017 08:46:17,678  INFO [AWT-EventQueue-0] - GenerateGame 83 - Preparing Multithread Monster Movement
+ 21 Dec 2017 08:46:17,868  INFO [AWT-EventQueue-0] - MazeRunner$2 98 - game started
+ 21 Dec 2017 08:49:41,897  INFO [AWT-EventQueue-0] - GenerateGame 59 - Generating Game ......
+ 21 Dec 2017 08:49:41,906  INFO [AWT-EventQueue-0] - Maze 72 - Generating Maze...
+ 21 Dec 2017 08:49:41,908  INFO [AWT-EventQueue-0] - Maze 102 - Setting maze path from start to end point
+ 21 Dec 2017 08:49:41,909  INFO [AWT-EventQueue-0] - Maze 97 - Maze Generating Successfully
+ 21 Dec 2017 08:49:41,913  INFO [AWT-EventQueue-0] - GenerateComponent 54 - Generating Maze Components....
+ 21 Dec 2017 08:49:41,914  INFO [AWT-EventQueue-0] - GenerateComponent 58 - Generating Gifts....
+ 21 Dec 2017 08:49:41,915  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,916  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,917  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,918  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,919  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,920  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,921  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,921  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,922  WARN [AWT-EventQueue-0] - GenerateComponent 170 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,923  INFO [AWT-EventQueue-0] - GenerateComponent 60 - Gifts Generated Successfully
+ 21 Dec 2017 08:49:41,924  INFO [AWT-EventQueue-0] - GenerateComponent 61 - Generating Trees....
+ 21 Dec 2017 08:49:41,930  WARN [AWT-EventQueue-0] - GenerateComponent 150 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,931  INFO [AWT-EventQueue-0] - GenerateComponent 63 - Trees Generated Successfully
+ 21 Dec 2017 08:49:41,932  INFO [AWT-EventQueue-0] - GenerateComponent 64 - Generating Bombs....
+ 21 Dec 2017 08:49:41,933  WARN [AWT-EventQueue-0] - GenerateComponent 87 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,934  WARN [AWT-EventQueue-0] - GenerateComponent 87 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,935  WARN [AWT-EventQueue-0] - GenerateComponent 87 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,941  WARN [AWT-EventQueue-0] - GenerateComponent 87 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,941  INFO [AWT-EventQueue-0] - GenerateComponent 66 - Bombs Generated Successfully
+ 21 Dec 2017 08:49:41,943  INFO [AWT-EventQueue-0] - GenerateComponent 68 - Generating Monsters....
+ 21 Dec 2017 08:49:41,944  WARN [AWT-EventQueue-0] - GenerateComponent 113 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,944  WARN [AWT-EventQueue-0] - GenerateComponent 113 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,945  WARN [AWT-EventQueue-0] - GenerateComponent 113 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,946  WARN [AWT-EventQueue-0] - GenerateComponent 113 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,947  WARN [AWT-EventQueue-0] - GenerateComponent 113 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,948  INFO [AWT-EventQueue-0] - GenerateComponent 71 - Monsters Generated Successfully
+ 21 Dec 2017 08:49:41,949  INFO [AWT-EventQueue-0] - GenerateComponent 72 - Generating Coins....
+ 21 Dec 2017 08:49:41,949  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,950  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,951  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,951  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,952  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,952  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,953  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,953  WARN [AWT-EventQueue-0] - GenerateComponent 183 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,954  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,958  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,959  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,961  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,961  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,966  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,967  WARN [AWT-EventQueue-0] - GenerateComponent 197 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,968  WARN [AWT-EventQueue-0] - GenerateComponent 211 - Couldn't generate in component in an invalid cell
+ 21 Dec 2017 08:49:41,968  INFO [AWT-EventQueue-0] - GenerateComponent 76 - Coins Generated Successfully
+ 21 Dec 2017 08:49:41,994  INFO [AWT-EventQueue-0] - GeneratePlayer 32 - Generating Player.....
+ 21 Dec 2017 08:49:41,994  INFO [AWT-EventQueue-0] - GeneratePlayer 34 - Setting Player position
+ 21 Dec 2017 08:49:41,995  INFO [AWT-EventQueue-0] - GeneratePlayer 41 - Generating player bullets
+ 21 Dec 2017 08:49:41,998  INFO [AWT-EventQueue-0] - GeneratePlayer 37 - Player Generating Successfully!
+ 21 Dec 2017 08:49:43,194  INFO [AWT-EventQueue-0] - MazeRunner$2 88 - initial gui created
+ 21 Dec 2017 08:49:43,258  INFO [AWT-EventQueue-0] - MazeRunner$2 92 - maze map created
+ 21 Dec 2017 08:49:43,259  INFO [AWT-EventQueue-0] - GenerateGame 83 - Preparing Multithread Monster Movement
+ 21 Dec 2017 08:49:43,413  INFO [AWT-EventQueue-0] - MazeRunner$2 98 - game started
+ 21 Dec 2017 08:49:44,776  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:49:44,948  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:49:45,116  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:49:45,250  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:45,431  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:45,587  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:45,737  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:45,881  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:46,295  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:46,682  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:46,808  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:49:46,991  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:49:47,348  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:47,673  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:49:47,973  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:49:48,339  INFO [AWT-EventQueue-0] - ImagePanel$1 79 - Key space pressed
+ 21 Dec 2017 08:49:48,345  INFO [AWT-EventQueue-0] - ImagePanel$1 81 - bullet fired
+ 21 Dec 2017 08:49:48,346  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 237 - Bullet movement thread started
+ 21 Dec 2017 08:49:48,347  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:49:48,560  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:49:48,752  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:49:48,890  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 261 - Bullet hit an object
+ 21 Dec 2017 08:49:48,890  INFO [Bullet Moving Runnable] - ImagePanel 211 - Bullet hit a non destroyable drawable
+ 21 Dec 2017 08:49:48,891  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 265 - Bullet movement thread Ended
+ 21 Dec 2017 08:49:49,503  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:49:49,880  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:09,242  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:09,537  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:09,769  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:09,933  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:10,098  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:10,252  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:10,536  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:10,876  INFO [AWT-EventQueue-0] - ImagePanel$1 79 - Key space pressed
+ 21 Dec 2017 08:50:10,880  INFO [AWT-EventQueue-0] - ImagePanel$1 81 - bullet fired
+ 21 Dec 2017 08:50:10,881  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 237 - Bullet movement thread started
+ 21 Dec 2017 08:50:10,884  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:50:11,007  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:50:11,163  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 247 - Bullet moving
+ 21 Dec 2017 08:50:11,301  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 261 - Bullet hit an object
+ 21 Dec 2017 08:50:11,301  INFO [Bullet Moving Runnable] - ImagePanel 211 - Bullet hit a non destroyable drawable
+ 21 Dec 2017 08:50:11,301  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 265 - Bullet movement thread Ended
+ 21 Dec 2017 08:50:11,336  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:11,495  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:11,673  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:11,893  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:12,072  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:12,255  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:12,415  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:12,585  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:12,743  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:12,952  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:13,162  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:13,344  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:13,520  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:13,703  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:13,897  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:14,136  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:14,302  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:14,539  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:14,703  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:14,878  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:15,018  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:15,211  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:15,420  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:15,586  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,107  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,141  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,174  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,207  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,241  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,274  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,307  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,341  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,374  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,407  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:16,515  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:16,692  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:16,849  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:17,010  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:17,195  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:17,390  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:17,507  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:17,690  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:18,230  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:18,388  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:18,685  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:18,862  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:18,999  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:19,210  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:19,395  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:19,582  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:19,848  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:20,026  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:20,206  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:20,419  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:20,584  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:20,730  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:20,939  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:21,119  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:21,338  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:21,503  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,024  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,057  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,091  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,124  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,157  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,192  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,224  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,257  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,292  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,324  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,358  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,391  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,425  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,458  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:22,666  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:22,884  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:23,069  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:23,233  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:23,396  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:23,570  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:23,910  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,429  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,463  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,495  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,529  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,563  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,596  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,629  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,662  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:24,696  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:25,280  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:25,575  INFO [AWT-EventQueue-0] - ImagePanel$1 79 - Key space pressed
+ 21 Dec 2017 08:50:25,581  INFO [AWT-EventQueue-0] - ImagePanel$1 81 - bullet fired
+ 21 Dec 2017 08:50:25,584  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 237 - Bullet movement thread started
+ 21 Dec 2017 08:50:25,585  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 261 - Bullet hit an object
+ 21 Dec 2017 08:50:25,586  INFO [Bullet Moving Runnable] - ImagePanel 204 - Bullet hit a destroyable drawable
+ 21 Dec 2017 08:50:25,677  INFO [Bullet Moving Runnable] - ImagePanel$BulletMovement 265 - Bullet movement thread Ended
+ 21 Dec 2017 08:50:26,005  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:26,221  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:26,733  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:26,931  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:27,103  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:27,256  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:27,431  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:27,756  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:27,957  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:28,161  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:28,353  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:28,566  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:28,785  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:28,973  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:29,154  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:29,350  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:29,573  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:29,701  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:29,941  INFO [AWT-EventQueue-0] - ImagePanel$1 64 - Key left pressed
+ 21 Dec 2017 08:50:30,485  INFO [AWT-EventQueue-0] - ImagePanel$1 73 - Key up pressed
+ 21 Dec 2017 08:50:31,606  INFO [AWT-EventQueue-0] - ImagePanel$1 77 - Key down pressed
+ 21 Dec 2017 08:50:32,297  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:32,578  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:32,807  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:32,987  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:33,235  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:33,440  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:33,650  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:33,811  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:34,085  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 21 Dec 2017 08:50:34,667  INFO [AWT-EventQueue-0] - ImagePanel$1 69 - Key right pressed
+ 
